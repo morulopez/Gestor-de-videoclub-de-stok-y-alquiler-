@@ -1,0 +1,20 @@
+.sortable {
+            list-style: none;
+        }
+        
+        .sortable>card:hover {
+            cursor: move;
+        }
+        
+        .ui-sortable {
+            min-height: 40px;
+            height: auto;
+        }
+        
+        .mb5 {
+            margin-bottom: 5px !important;
+        }
+        
+        .handle {
+            cursor: move !important;
+        }
